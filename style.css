@@ -1,0 +1,39 @@
+div{
+    padding:10px;
+    margin:10px;
+    width: 700px;
+}
+h3{
+    padding:5px;
+    margin:5px;
+    background-color:rgb(231, 102, 102);
+    display:inline;
+}
+span{
+    padding: 5PX;
+    margin: 5px;
+    background-color:rebeccapurple;
+    display:block;
+    color:white;
+}
+a{    
+    padding: 5PX;
+    margin: 5px;
+    background-color:rgb(98, 172, 190);
+    display:block;
+    color:rgb(255, 4, 4);
+}
+input{
+    padding: 5PX;
+    margin: 5px;
+    display:block;
+}
+section article{
+    padding: 10PX;
+    margin: 10px;
+    background-color:rgb(238, 132, 185);
+    color:white;
+    display:inline-block;
+    width:500px;
+
+}
